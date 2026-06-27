@@ -1,0 +1,23 @@
+{% assign shown = 0 %}
+{% assign limit = include.limit | default: 999 %}
+
+{% for section in site.data.publications.sections %}
+{% assign remaining = limit | minus: shown %}
+{% if remaining > 0 %}
+<h2>{{ section.title }}</h2>
+<ol>
+{% for item in section.items limit: remaining %}
+<li>
+{% if item.url %}
+<strong><a href="{{ item.url }}">{{ item.title }}</a></strong><br>
+{% else %}
+<strong>{{ item.title }}</strong><br>
+{% endif %}
+{{ item.authors }}<br>
+<em>{{ item.venue }}</em>
+</li>
+{% assign shown = shown | plus: 1 %}
+{% endfor %}
+</ol>
+{% endif %}
+{% endfor %}

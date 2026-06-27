@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nanfei Jiang"
 title_separator          : "-"
 name                     : &name "Nanfei Jiang"
-description              : &description "personal description"
+description              : &description "Ph.D. student at UC Santa Barbara working on online learning, control, optimization, and energy systems."
 url                      : https://nanfei2001.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nanfei2001/nanfei2001.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Nanfei Jiang"
   avatar           : "travel.png"
-  bio              : "Ph.D in University of California, Santa Barbara"
-  location         : "3106 Harold Frank Hall, UCSB"
+  bio              : "Ph.D. student in ECE at UC Santa Barbara"
+  location         : "UC Santa Barbara"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "nanfei-jiang"
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
