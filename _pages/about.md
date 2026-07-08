@@ -26,7 +26,7 @@ My current work is organized around three questions:
 
 Publications
 ======
-{% include publications-list.html limit=4 conference_first=true %}
+{% include publications-list.html limit=5 conference_first=true %}
 
 [Full publication list](/publications/)
 

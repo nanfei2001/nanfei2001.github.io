@@ -24,7 +24,7 @@ Stochastic gradient methods usually assume that gradient samples are queried uni
 This line of work studies how query rules affect transient convergence, final optimization error, and participant-side utility. The technical question is how to allocate a limited query budget without losing the convergence guarantees that make stochastic gradient methods useful.
 
 Related papers:
-- Strategic Querying for Stochastic Gradient Methods
+- Enhancing Transient Performance in Stochastic Gradient Methods: A Strategic Querying Approach
 - Stochastic Gradient Descent with Strategic Querying
 
 Pricing and market design for EV charging
