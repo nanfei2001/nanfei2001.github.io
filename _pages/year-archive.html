@@ -1,22 +1,49 @@
 ---
-layout: archive
-permalink: /year-archive/
+layout: single
+permalink: /blog/
 title: "Blog"
 author_profile: true
 redirect_from:
+  - /year-archive/
   - /wordpress/blog-posts/
 ---
 
 {% include base_path %}
 
-Notes on mathematics, control, optimization, machine learning, and occasional research reflections.
+<p>I use this page as an index for notes and longer-form thoughts that do not belong in papers. Most posts are written while I am learning or reorganizing technical material; they are published on Zhihu, and Medium links will be added when available.</p>
 
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+<h2 id="convex-optimization-and-duality">Convex Optimization and Duality</h2>
+<p>Notes motivated by the confusions that appear after first seeing Lagrange duality. The series tries to connect supporting hyperplanes, support functions, dual cones, Fenchel conjugacy, epigraphs, and Legendre transforms under a geometric viewpoint.</p>
+<div class="blog-preview-grid blog-preview-grid--duality">
+  <figure class="blog-preview">
+    <img src="/images/blog/duality-thumbnail.png" alt="Optimization landscape used in the convex optimization and duality notes" loading="lazy">
+  </figure>
+  <figure class="blog-preview">
+    <img src="/images/blog/dual-cone.gif" alt="Animated dual cone construction" loading="lazy">
+  </figure>
+</div>
+<ul>
+  <li><a href="https://zhuanlan.zhihu.com/p/1991071405580776062">一文读懂凸优化中的「对偶」概念（一）：对偶究竟在说一个什么事？</a></li>
+  <li><a href="https://zhuanlan.zhihu.com/p/1994408053886432686">一文读懂凸优化中的「对偶」概念（二）：可以用一个观点解释所有对偶吗？</a></li>
+  <li><a href="https://zhuanlan.zhihu.com/p/2006663715471250367">一文读懂凸优化中的「对偶」概念（三）：Fenchel 共轭是什么东西？它有什么用？</a></li>
+</ul>
+
+<h2 id="finite-element-method">Finite Element Method</h2>
+<p>Learning notes on finite element methods as numerical methods for PDEs, moving from function spaces and Galerkin formulations to one-dimensional Poisson equations, weak forms, mesh generation, and Delaunay triangulation.</p>
+<div class="blog-preview-grid blog-preview-grid--fem">
+  <figure class="blog-preview">
+    <img src="/images/blog/fem-mesh-cover.png" alt="Finite element mesh preview" loading="lazy">
+  </figure>
+  <figure class="blog-preview">
+    <img src="/images/blog/fem-compare-mesh.png" alt="Comparison of finite element meshes" loading="lazy">
+  </figure>
+  <figure class="blog-preview">
+    <img src="/images/blog/delaunay-point-insertion.gif" alt="Delaunay triangulation with point insertion" loading="lazy">
+  </figure>
+</div>
+<ul>
+  <li><a href="https://zhuanlan.zhihu.com/p/499454118">有限元方法（FEM）学习笔记（1）</a></li>
+  <li><a href="https://zhuanlan.zhihu.com/p/500310346">有限元方法（FEM）学习笔记（2）</a></li>
+  <li><a href="https://zhuanlan.zhihu.com/p/514172222">有限元方法（FEM）学习笔记（3）</a></li>
+  <li><a href="https://zhuanlan.zhihu.com/p/593504667">有限元方法（FEM）学习笔记（4）</a></li>
+</ul>

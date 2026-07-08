@@ -8,32 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Electrical and Computer Engineering at UC Santa Barbara, advised by Prof. Mahnoosh Alizadeh. My current Ph.D. work studies online decision-making for control, optimization, and energy systems under safety constraints, uncertainty, and limited information.
+I am a Ph.D. student in Electrical and Computer Engineering at UC Santa Barbara, advised by Prof. Mahnoosh Alizadeh in the Smart Infrastructure Systems Lab.
+
+My research studies sequential decision-making in cyber-physical and networked systems, with a focus on safety constraints, information constraints, and economic incentives. I am currently working on safe learning-based control, strategic querying for stochastic optimization, and pricing mechanisms for electric-vehicle charging systems.
+
+Before joining UCSB, I received my B.S. in Applied Mathematics from Southern University of Science and Technology in 2023 and was an exchange student at UC Berkeley from January 2022 to December 2022.
 
 Current Ph.D. Work
 ======
-My research sits at the intersection of online learning, control, optimization, and cyber-physical systems. I am especially interested in algorithms that are mathematically principled enough to come with guarantees, but still close to settings where decisions are constrained by safety, incentives, or query cost.
+My current work is organized around three questions:
 
-Current threads include:
-  * Safe online and adaptive control with per-step constraints.
-  * Strategic querying and data acquisition for stochastic optimization.
-  * Pricing and mechanism design for electric-vehicle charging systems with discrete access constraints.
+  * How can online controllers learn under uncertainty while respecting safety constraints at every step?
+  * How should an optimizer decide which gradients or data sources are worth querying when queries are costly or strategic?
+  * How can prices coordinate electric-vehicle charging systems with both discrete station access and continuous charging decisions?
 
 [More about my research](/research/)
 
 Publications
 ======
-{% include publications-list.html limit=4 %}
+{% include publications-list.html limit=4 conference_first=true %}
 
 [Full publication list](/publications/)
 
-Writing and Podcast
+Blog and Podcast
 ======
-I also keep a blog for technical notes, research reflections, and longer-form explanations that do not belong in papers. I am developing a Chinese-language podcast about AI, research, and the human questions that appear when technical systems enter ordinary life.
+Out of personal interest, I also keep a blog and a podcast project. The blog collects some of my notes and thoughts, published or cross-posted on Zhihu and Medium. The podcast is a Chinese-language conversational project about AI and the human questions around technical change.
 
-  * [Blog](/year-archive/)
-  * [Podcast](/podcast/)
-
-Short Bio
-======
-I received my B.S. in Applied Mathematics from Southern University of Science and Technology in 2023. Before starting my Ph.D., I was an exchange student at UC Berkeley and a summer research student at UC Santa Cruz.
+  * [Blog](/blog/): notes on convex-optimization duality, finite element methods, and related technical topics.
+  * [Podcast](/podcast/): coming soon.

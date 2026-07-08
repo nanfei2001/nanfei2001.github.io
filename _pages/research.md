@@ -5,29 +5,37 @@ permalink: /research/
 author_profile: true
 ---
 
-Current Ph.D. Work
-======
-I work on online decision-making problems in control, optimization, and energy systems. A recurring question in my research is how to design algorithms that learn or optimize over time while respecting real constraints: safety constraints in dynamical systems, query constraints in optimization, and incentive constraints in energy markets.
+Sequential decision-making in cyber-physical and networked systems raises three recurring technical issues: safety, information constraints, and economic incentives.
 
-Research Threads
-======
-
-Safe online control
+Safe learning and online control
 ------
-I study online control algorithms that can handle adversarial costs and disturbances while maintaining safety constraints throughout the trajectory. This line of work is motivated by safety-critical cyber-physical systems, where violating a state or input constraint during learning is not acceptable.
+Learning-based controllers must explore uncertain dynamics while operating under constraints. In safety-critical systems, constraint violations during learning are part of the problem, not an acceptable transient cost.
 
-Strategic querying for optimization
-------
-In stochastic optimization, uniformly sampling gradients can waste queries when different users or data sources have different value at different stages of training. My work studies strategic querying rules that use a limited query budget more efficiently while preserving theoretical guarantees.
+Recent work studies constrained linear quadratic regulators with unknown dynamics, unbounded disturbances, and state-input safety constraints. The goal is to obtain near-optimal regret while maintaining chance-constraint satisfaction.
 
-Safe adaptive LQR
-------
-I am also interested in adaptive control with unknown dynamics and per-step constraints. Recent work studies how to obtain near-optimal regret while satisfying chance constraints in constrained linear quadratic regulator problems.
+Related papers:
+- Near-Optimal Regret for the Safe Learning-based Control of the Constrained Linear Quadratic Regulator
+- Online Nonstochastic Control with Convex Safety Constraints
 
-EV charging, pricing, and discrete access
+Strategic querying for stochastic optimization
 ------
-Electric-vehicle charging systems combine continuous charging decisions with discrete station-access decisions. I study pricing mechanisms that can handle this nonconvex structure and still provide economically meaningful incentives.
+Stochastic gradient methods usually assume that gradient samples are queried uniformly or freely. This assumption is restrictive when query access is costly, limited, or tied to strategic participants.
+
+This line of work studies how query rules affect transient convergence, final optimization error, and participant-side utility. The technical question is how to allocate a limited query budget without losing the convergence guarantees that make stochastic gradient methods useful.
+
+Related papers:
+- Strategic Querying for Stochastic Gradient Methods
+- Stochastic Gradient Descent with Strategic Querying
+
+Pricing and market design for EV charging
+------
+Electric-vehicle charging combines continuous charging schedules with binary station-access decisions. This mixed continuous-discrete structure makes traditional marginal pricing difficult.
+
+This work uses convex and copositive duality to construct prices for charging and station access, capturing EVSE congestion while preserving revenue adequacy and user incentive guarantees.
+
+Related paper:
+- Pricing Electric Vehicle Charging and Station Access via Copositive Duality
 
 Representative Papers
-======
-{% include publications-list.html limit=4 %}
+------
+{% include publications-list.html limit=5 %}

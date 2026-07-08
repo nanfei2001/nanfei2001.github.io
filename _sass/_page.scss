@@ -100,6 +100,48 @@
     font-size: $type-size-6;
   }
 
+  .blog-preview-grid {
+    display: grid;
+    gap: 0.75rem;
+    margin: 1rem 0 1.25rem;
+  }
+
+  .blog-preview-grid--duality {
+    grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
+  }
+
+  .blog-preview-grid--fem {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .blog-preview {
+    margin: 0;
+    overflow: hidden;
+    border: 1px solid $border-color;
+    background: #fff;
+  }
+
+  .blog-preview img {
+    display: block;
+    width: 100%;
+    height: 14rem;
+    object-fit: cover;
+  }
+
+  @include breakpoint(max-width $small) {
+    .blog-preview-grid,
+    .blog-preview-grid--duality,
+    .blog-preview-grid--fem {
+      grid-template-columns: 1fr;
+    }
+
+    .blog-preview img {
+      height: auto;
+      max-height: 18rem;
+      object-fit: contain;
+    }
+  }
+
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;

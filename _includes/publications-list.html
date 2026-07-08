@@ -1,6 +1,55 @@
 {% assign shown = 0 %}
 {% assign limit = include.limit | default: 999 %}
 
+{% if include.conference_first %}
+{% for section in site.data.publications.sections %}
+{% assign remaining = limit | minus: shown %}
+{% if remaining > 0 and section.title == "Conference Papers" %}
+<h2>{{ section.title }}</h2>
+<ol>
+{% for item in section.items limit: remaining %}
+<li>
+{% if item.url %}
+<strong><a href="{{ item.url }}">{{ item.title }}</a></strong><br>
+{% else %}
+<strong>{{ item.title }}</strong><br>
+{% endif %}
+{{ item.authors }}<br>
+<em>{{ item.venue }}</em>
+{% if item.summary %}
+<br>{{ item.summary }}
+{% endif %}
+</li>
+{% assign shown = shown | plus: 1 %}
+{% endfor %}
+</ol>
+{% endif %}
+{% endfor %}
+
+{% for section in site.data.publications.sections %}
+{% assign remaining = limit | minus: shown %}
+{% if remaining > 0 and section.title != "Conference Papers" %}
+<h2>{{ section.title }}</h2>
+<ol>
+{% for item in section.items limit: remaining %}
+<li>
+{% if item.url %}
+<strong><a href="{{ item.url }}">{{ item.title }}</a></strong><br>
+{% else %}
+<strong>{{ item.title }}</strong><br>
+{% endif %}
+{{ item.authors }}<br>
+<em>{{ item.venue }}</em>
+{% if item.summary %}
+<br>{{ item.summary }}
+{% endif %}
+</li>
+{% assign shown = shown | plus: 1 %}
+{% endfor %}
+</ol>
+{% endif %}
+{% endfor %}
+{% else %}
 {% for section in site.data.publications.sections %}
 {% assign remaining = limit | minus: shown %}
 {% if remaining > 0 %}
@@ -15,9 +64,13 @@
 {% endif %}
 {{ item.authors }}<br>
 <em>{{ item.venue }}</em>
+{% if item.summary %}
+<br>{{ item.summary }}
+{% endif %}
 </li>
 {% assign shown = shown | plus: 1 %}
 {% endfor %}
 </ol>
 {% endif %}
 {% endfor %}
+{% endif %}

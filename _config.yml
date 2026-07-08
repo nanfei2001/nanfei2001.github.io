@@ -83,8 +83,10 @@ author:
   name             : "Nanfei Jiang"
   avatar           : "travel.png"
   bio              : "Ph.D. student in ECE at UC Santa Barbara"
+  research         : "Online learning, optimization, control, and energy systems"
   location         : "UC Santa Barbara"
   employer         :
+  cv               : "/cv/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :  "nanfei@ucsb.edu"
@@ -96,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nanfei2001"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
