@@ -32,7 +32,7 @@ Publications
 
 Blog and Podcast
 ======
-Out of personal interest, I also keep a blog and a podcast project. The blog collects some of my notes and thoughts, published or cross-posted on Zhihu and Medium. The podcast is a Chinese-language conversational project about AI and the human questions around technical change.
+Out of personal interest, I also keep a blog and host *The Next Elevator*. The blog collects some of my notes and thoughts, published or cross-posted on Zhihu and Medium. The podcast is a Mandarin conversational project about AI and the human questions around technical change.
 
   * [Blog](/blog/): notes on convex-optimization duality, finite element methods, and related technical topics.
-  * [Podcast](/podcast/): coming soon.
+  * [Podcast](/podcast/): *The Next Elevator* (下一部电梯), now available on Apple Podcasts, Spotify, and Xiaoyuzhou.
