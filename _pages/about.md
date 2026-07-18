@@ -32,6 +32,6 @@ I keep technical notes and longer-form thoughts, published or cross-posted on Zh
 
 ### Podcast
 
-I host *The Next Elevator* (下一部电梯), a Mandarin conversational podcast about AI and the human questions around technical change. It is available on Apple Podcasts, Spotify, and Xiaoyuzhou.
+I host *The Next Elevator* (下一部电梯), a Mandarin conversational podcast about open-ended questions raised by AI: work, intelligence, social forms, and the relationship between people and AI. The show looks beyond technical and commercial narratives, and is available on Apple Podcasts, Spotify, and Xiaoyuzhou.
 
 [Podcast](/podcast/)
