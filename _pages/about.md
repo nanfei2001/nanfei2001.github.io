@@ -14,14 +14,6 @@ My research is about online decision-making under constraints. I develop learnin
 
 Before joining UCSB, I received my B.S. in Applied Mathematics from Southern University of Science and Technology in 2023 and was an exchange student at UC Berkeley from January 2022 to December 2022.
 
-Current Ph.D. Work
-======
-My current work studies how algorithmic guarantees change when the usual idealizations are removed: safety violations are not acceptable during learning, gradient information may be costly or strategically controlled, and market mechanisms must coordinate heterogeneous users with physical infrastructure.
-
-  * **Safe learning and online control:** algorithms that learn uncertain dynamics while maintaining trajectory-level safety constraints.
-  * **Strategic querying:** stochastic optimization methods that decide when gradient information is worth acquiring under limited or strategic query access.
-  * **EV charging markets:** pricing mechanisms for systems with continuous charging decisions, discrete station access, and congestion constraints.
-
 [More about my research](/research/)
 
 Publications
