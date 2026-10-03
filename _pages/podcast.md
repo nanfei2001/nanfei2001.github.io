@@ -26,15 +26,15 @@ author_profile: true
 Latest Episode
 ==============
 
-### “The Universe Is Its Own Best Simulator”: For AI, Could Becoming Einstein Be Easier Than Delivering Food?
+### “Is Rigor Actually the Less Important Part of Mathematics?”: A Conversation with a Pure Math Ph.D. Student about AI for Math
 
-<span lang="zh-CN">“宇宙是它自己最好的模拟器”：对 AI 来说，成为爱因斯坦可能比送外卖更容易？</span>
+<span lang="zh-CN">“严格，反而是数学里没那么重要的部分？”：和纯数学博士聊 AI for Math</span>
 
-*In Mandarin · 2 hr 18 min · July 18, 2026*
+*In Mandarin · 1 hr 41 min · September 21, 2026*
 
-In the first episode, I speak with a longtime friend working in reinforcement learning about the uneven frontier of AI: why language models can appear brilliant in abstract domains while still struggling in the physical world; whether intelligence requires a body; how reinforcement learning changes what a model can do; and what action, reward, and consciousness might mean for machines.
+In this episode, I speak with Jacky, a pure mathematics Ph.D. student, about what recent progress in AI for Math may actually change. We talk about whether solving famous problems is the central goal of mathematics, why research moves back and forth between rigorous and non-rigorous thinking, what formalization might become, and why taste, intuition, and experience may remain scarce even when AI systems become much better at proofs.
 
-<a href="https://podcasts.apple.com/us/podcast/%E5%AE%87%E5%AE%99%E6%98%AF%E5%AE%83%E8%87%AA%E5%B7%B1%E6%9C%80%E5%A5%BD%E7%9A%84%E6%A8%A1%E6%8B%9F%E5%99%A8-%E5%AF%B9-ai-%E6%9D%A5%E8%AF%B4-%E6%88%90%E4%B8%BA%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E5%8F%AF%E8%83%BD%E6%AF%94%E9%80%81%E5%A4%96%E5%8D%96%E6%9B%B4%E5%AE%B9%E6%98%93/id6792171887?i=1000777284864" class="btn btn--small">Listen on Apple Podcasts</a>
+<a href="https://podcasts.apple.com/us/podcast/%E4%B8%8B%E4%B8%80%E9%83%A8%E7%94%B5%E6%A2%AF/id6792171887" class="btn btn--small">Listen on Apple Podcasts</a>
 <a href="https://open.spotify.com/show/033RkM5gOzuZfCSlBO6f3N" class="btn btn--small">Listen on Spotify</a>
 
 About the Show
