@@ -3,11 +3,11 @@ sections:
     items:
       - title: "Enhancing Transient Performance in Stochastic Gradient Methods: A Strategic Querying Approach"
         authors: "N. Jiang, H.-T. Wai, and M. Alizadeh"
-        venue: "IEEE Transactions on Control of Network Systems, under review"
+        venue: "under review"
         summary: "Studies strategic querying for stochastic gradient methods with an emphasis on transient performance."
       - title: "Pricing Electric Vehicle Charging and Station Access via Copositive Duality"
         authors: "N. Jiang, Y. Zhou, J. A. Taylor, and M. Alizadeh"
-        venue: "European Journal of Operational Research, under review; arXiv:2604.15227"
+        venue: "under review; arXiv:2604.15227"
         url: "https://arxiv.org/abs/2604.15227"
         summary: "Uses convex and copositive duality to analyze pricing for EV charging with discrete access decisions."
       - title: "Near-Optimal Regret for the Safe Learning-based Control of the Constrained Linear Quadratic Regulator"
