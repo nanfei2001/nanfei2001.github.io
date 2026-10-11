@@ -26,15 +26,15 @@ author_profile: true
 Latest Episode
 ==============
 
-### “Is Rigor Actually the Less Important Part of Mathematics?”: A Conversation with a Pure Math Ph.D. Student about AI for Math
+### OpenAI Announces a Millennium Prize Breakthrough: A Conversation with a Mathematician Studying Fluids
 
-<span lang="zh-CN">“严格，反而是数学里没那么重要的部分？”：和纯数学博士聊 AI for Math</span>
+<span lang="zh-CN">OpenAI 宣布攻克千禧年难题，专门研究流体的数学家怎么看？</span>
 
-*In Mandarin · 1 hr 41 min · September 21, 2026*
+*In Mandarin · 1 hr 21 min · October 11, 2026*
 
-In this episode, I speak with Jacky, a pure mathematics Ph.D. student, about what recent progress in AI for Math may actually change. We talk about whether solving famous problems is the central goal of mathematics, why research moves back and forth between rigorous and non-rigorous thinking, what formalization might become, and why taste, intuition, and experience may remain scarce even when AI systems become much better at proofs.
+In this episode, I speak with Linfeng Li, an assistant professor of mathematics at Southern University of Science and Technology, about AI's growing role in mathematical research. We discuss claims about the Navier–Stokes problem, the work involved in checking AI-generated proofs, why formal verification still leaves room for human understanding and judgment, and how AI may change the way young mathematicians learn. We also talk about choosing worthwhile questions, finding joy in research, and respecting other people's time when sharing AI-generated work.
 
-<a href="https://podcasts.apple.com/us/podcast/%E4%B8%8B%E4%B8%80%E9%83%A8%E7%94%B5%E6%A2%AF/id6792171887" class="btn btn--small">Listen on Apple Podcasts</a>
+<a href="https://podcasts.apple.com/us/podcast/ep07-openai-%E5%AE%A3%E5%B8%83%E6%94%BB%E5%85%8B%E5%8D%83%E7%A6%A7%E5%B9%B4%E9%9A%BE%E9%A2%98-%E4%B8%93%E9%97%A8%E7%A0%94%E7%A9%B6%E6%B5%81%E4%BD%93%E7%9A%84%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%80%8E%E4%B9%88%E7%9C%8B/id6792171887?i=1000795802997" class="btn btn--small">Listen on Apple Podcasts</a>
 <a href="https://open.spotify.com/show/033RkM5gOzuZfCSlBO6f3N" class="btn btn--small">Listen on Spotify</a>
 
 About the Show
