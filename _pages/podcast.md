@@ -26,16 +26,17 @@ author_profile: true
 Latest Episode
 ==============
 
-### What Keeps Us Going: A Conversation with a Chemistry PhD Student About AI and Meaning
+### Everyone Asks Whether AI Will Replace Mathematicians. Why Did Mathematics Become a Profession?
 
-<span lang="zh-CN">“人只有疯狂地爱上什么，才能维持生命力”：和化学博士聊聊生存危机</span>
+<span lang="zh-CN">EP09｜都在问 AI 会不会取代数学家，可数学家为什么会成为一种职业？</span>
 
-*In Mandarin · 1 hr 21 min · November 1, 2026*
+*In Mandarin · 59 min · November 15, 2026*
 
-In this episode, I speak with 70, a chemistry PhD student and film-photography enthusiast, about what gives creative work and research meaning as AI takes on more of both. We discuss the value of taking a photograph yourself, the boundaries of AI editing, automated laboratories, and whether researchers' experience and judgment remain distinctive. We also talk about finding a sense of worth beyond work, human connection, and why some experiences still require us to pay the “tax of the process.”
+In this episode, I speak with Keyao Peng (彭柯尧), a mathematics postdoc at Université de Bourgogne, about what it means to understand a mathematical idea rather than just follow a proof. Peng describes understanding as reconstructing an idea for yourself. We also discuss how AI might affect pure and applied mathematics differently and what might make it possible to do research outside universities.
 
-<a href="https://podcasts.apple.com/us/podcast/ep08-%E4%BA%BA%E5%8F%AA%E6%9C%89%E7%96%AF%E7%8B%82%E5%9C%B0%E7%88%B1%E4%B8%8A%E4%BB%80%E4%B9%88-%E6%89%8D%E8%83%BD%E7%BB%B4%E6%8C%81%E7%94%9F%E5%91%BD%E5%8A%9B-%E5%92%8C%E5%8C%96%E5%AD%A6%E5%8D%9A%E5%A3%AB%E8%81%8A%E8%81%8A%E7%94%9F%E5%AD%98%E5%8D%B1%E6%9C%BA/id6792171887?i=1000799243194" class="btn btn--small">Listen on Apple Podcasts</a>
-<a href="https://open.spotify.com/episode/5t4sWVwsmxVbonFJcLUhue" class="btn btn--small">Listen on Spotify</a>
+<a href="https://podcasts.apple.com/us/podcast/ep09-%E9%83%BD%E5%9C%A8%E9%97%AE-ai-%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%8F%96%E4%BB%A3%E6%95%B0%E5%AD%A6%E5%AE%B6-%E5%8F%AF%E6%95%B0%E5%AD%A6%E5%AE%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%80%E7%A7%8D%E8%81%8C%E4%B8%9A/id6792171887?i=1000802049244" class="btn btn--small">Listen on Apple Podcasts</a>
+<a href="https://open.spotify.com/episode/5CgQifDpnYOaPBJtCDYQAi" class="btn btn--small">Listen on Spotify</a>
+<a href="https://www.xiaoyuzhoufm.com/episode/6af97159a4a79edf13798bf1" class="btn btn--small">Listen on 小宇宙</a>
 
 About the Show
 ==============
