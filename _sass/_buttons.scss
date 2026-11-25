@@ -151,3 +151,8 @@
     font-size: $type-size-7;
   }
 }
+/* keep buttons inside page content from inheriting the content link underline */
+.page__content a.btn,
+.page__content a.btn:hover {
+  text-decoration: none;
+}
