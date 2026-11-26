@@ -16,6 +16,13 @@ Before joining UCSB, I received my B.S. in Applied Mathematics from Southern Uni
 
 [More about my research](/research/)
 
+News
+======
+- **Nov 2026** — New podcast episode: [EP09｜都在问 AI 会不会取代数学家，可数学家为什么会成为一种职业？](/podcast/), with mathematician Keyao Peng.
+- **Summer 2026** — Launched [*The Next Elevator* (下一部电梯)](/podcast/), a Mandarin podcast about the big questions raised by AI.
+- **Apr 2026** — New preprints on arXiv: [EV charging pricing via copositive duality](https://arxiv.org/abs/2604.15227) and [safe learning-based control of the constrained LQR](https://arxiv.org/abs/2604.22158).
+- **2025** — Papers presented at [CDC 2025](/publications/) (stochastic gradient descent with strategic querying) and [ACC 2025](/publications/) (online nonstochastic control with convex safety constraints).
+
 Publications
 ======
 {% include publications-list.html limit=5 conference_first=true %}
@@ -34,4 +41,6 @@ I keep technical notes and longer-form thoughts, published or cross-posted on Zh
 
 I host *The Next Elevator* (下一部电梯), a Mandarin conversational podcast about open-ended questions raised by AI: work, intelligence, social forms, and the relationship between people and AI. The show looks beyond technical and commercial narratives, and is available on Apple Podcasts, Spotify, and Xiaoyuzhou.
 
-[Podcast](/podcast/)
+**Latest episode:** [EP09｜都在问 AI 会不会取代数学家，可数学家为什么会成为一种职业？](https://www.xiaoyuzhoufm.com/episode/6af97159a4a79edf13798bf1) (59 min, Nov 2026)
+
+[All episodes](/podcast/)
